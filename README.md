@@ -25,3 +25,14 @@ This project explores the use of machine learning to predict the presence of car
 ## Project Files
 - `Cardiovascular_Disease_Prediction.ipynb` — notebook containing the project code and analysis.
 
+## Model Performance
+
+The following graph compares the accuracy of the machine learning models evaluated in this project.
+
+![Accuracy Comparison of ML Models](accuracy_comparison.png)
+
+## Exploratory Data Analysis
+
+The correlation matrix visualizes relationships between the health-related features in the dataset.
+
+![Correlation Matrix](correlation_matrics.png)
